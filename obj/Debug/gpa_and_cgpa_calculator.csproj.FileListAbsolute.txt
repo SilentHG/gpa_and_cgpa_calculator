@@ -1,0 +1,9 @@
+C:\Users\shaki\source\repos\gpa_and_cgpa_calculator\bin\Debug\gpa_and_cgpa_calculator.exe.config
+C:\Users\shaki\source\repos\gpa_and_cgpa_calculator\bin\Debug\gpa_and_cgpa_calculator.exe
+C:\Users\shaki\source\repos\gpa_and_cgpa_calculator\bin\Debug\gpa_and_cgpa_calculator.pdb
+C:\Users\shaki\source\repos\gpa_and_cgpa_calculator\obj\Debug\gpa_and_cgpa_calculator.csprojAssemblyReference.cache
+C:\Users\shaki\source\repos\gpa_and_cgpa_calculator\obj\Debug\gpa_and_cgpa_calculator.Form1.resources
+C:\Users\shaki\source\repos\gpa_and_cgpa_calculator\obj\Debug\gpa_and_cgpa_calculator.Properties.Resources.resources
+C:\Users\shaki\source\repos\gpa_and_cgpa_calculator\obj\Debug\gpa_and_cgpa_calculator.csproj.GenerateResource.cache
+C:\Users\shaki\source\repos\gpa_and_cgpa_calculator\obj\Debug\gpa_and_cgpa_calculator.exe
+C:\Users\shaki\source\repos\gpa_and_cgpa_calculator\obj\Debug\gpa_and_cgpa_calculator.pdb
